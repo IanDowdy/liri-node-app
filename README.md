@@ -42,8 +42,33 @@ ________________________________________________________________________________
 ...and that's it!!
 __node__ and __liri__ will always be the same, the third slot has four options, and the user input section will contain the thing it is you want to search.
 
+_________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________
 
 
 
+![before image](https://github.com/IanDowdy/liri-node-app/blob/master/images/concert_before.png)
 
 
+![after image](https://github.com/IanDowdy/liri-node-app/blob/master/images/concert_after.png)
+
+_________________________________________________________________________________________________________________________________
+
+![before image](https://github.com/IanDowdy/liri-node-app/blob/master/images/dwis_before.png)
+
+![after image](https://github.com/IanDowdy/liri-node-app/blob/master/images/dwis_after.png)
+
+__________________________________________________________________________________________________________________________________
+
+![before image](https://github.com/IanDowdy/liri-node-app/blob/master/images/movie_before.png)
+
+![after image](https://github.com/IanDowdy/liri-node-app/blob/master/images/movie_after.png)
+
+___________________________________________________________________________________________________________________________________
+
+![before image](https://github.com/IanDowdy/liri-node-app/blob/master/images/spotify_before.png)
+
+![after image](https://github.com/IanDowdy/liri-node-app/blob/master/images/spotify_after.png)
